@@ -1,0 +1,3 @@
+! allowing as below
+!
+||api.cloudflare.com^
