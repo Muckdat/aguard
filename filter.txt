@@ -6870,7 +6870,6 @@ vkcdnservice.appspot.com^
 ||clottedpowerlessmade.com^
 ||cloudcdn.ml^
 ||cloudcnfare.com^
-||cloudflare.solutions^
 ||cloudfrale.com^
 ||cloudiiv.com^
 ||cloudimagesa.com^
@@ -34068,7 +34067,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||chmproxy.bid^
 ||clgserv.pro^
 ||cloud-miner.eu^
-||cloudflareinsights.com^
 ||cnhv.co^
 ||coinhiveproxy.com^
 ||coinimp.com
@@ -34630,7 +34628,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||creator.zmags.com^
 ||crta.and.co.uk^
 ||csp-collector.appspot.com^
-||csp-reporting.cloudflare.com^
 ||csp.archant.co.uk^
 ||ct.corpusapp.com^
 ||ct.eid.co.nz^
